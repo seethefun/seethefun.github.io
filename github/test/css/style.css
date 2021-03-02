@@ -1,0 +1,81 @@
+h1 {
+	font-size: 30pt ;
+}
+p {
+	font-size: 12pt;
+}
+.main-header, .desc-2 {
+	color: #787878;
+}
+.box-header, .btn-text, .box-name {
+	color: #ffffff;
+}
+.header {
+	font-family: Myriad Pro, sans-serif;
+}
+.main-header {
+	display: block;
+}
+.header-2 {
+	font-size: 12pt;
+	text-transform: uppercase;
+}
+.desc-2 {
+	font-size: 13pt;
+
+  }
+  .icons {
+  	display: inline-block;
+  	margin-top: 90px;
+  }
+.first-icon {
+	display: inline-block;
+	margin-left: 32px;
+}
+.first-icon img {
+	margin-bottom: 40px;
+}
+.icons-two {
+	margin-top: 50px;
+}
+.box-first {
+	width: auto;
+	height: 600px;
+	background-color: #39b4af;
+}
+.box-header {
+	margin-top: 180px;
+	font-size: 24pt;
+}
+.two-icon {
+	margin-top: 60px;
+	margin-left: 120px;
+}
+.form-header {
+	margin-top: 150px;
+}
+.form {
+   padding: 20
+   width: 30%;
+   border-radius: 0 !important;
+   border: none;
+}
+.form-control {
+	margin-top: 30px;
+	border-radius: 0 !important;
+	border: none;
+}
+.main-btn {
+	height: 40px;
+	margin-top: 20px;
+	color: #ffffff;
+}
+.test {
+	border-radius: 0 !important;
+}
+.box {
+	width: auto;
+	height: 260px;
+	background-color: #141414;
+    margin-top: 90px;
+}
